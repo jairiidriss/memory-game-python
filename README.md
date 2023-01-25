@@ -1,6 +1,6 @@
 <h1>Memory Game using Python</h1>
 <p>
-  Simple memory game in python using Tkinter GUI Library, It is a simple Python game, using Tkinter library for GUI
+  A simple memory game in python using Tkinter GUI Library
 </p>
 <h2>Game Process</h2>
 <ol>
